@@ -6,8 +6,14 @@ Ajouter un nouveau soft de mining à MinerHelper:
 
 Le fichier ini doit avoir la forme suivante:
 
+[URL]
+liens de téléchargement du soft de mining
+
+[EXE]
+nom de l'exécutable (sans le .exe)
+
 [NAME]
-le nom de l'exécutable (sans le .exe)
+nom du soft de mining
 
 [GPU]
 ici vous avez le choix entre: NVIDIA AMD ou BOTH
@@ -44,10 +50,16 @@ le paramètre ",d=%DIFF%" sera ignoré par MinerHelper)
 %PARAMS% - correspond au paramètres additionels que l'utilisateur peut indiquer le cas échéant MinerHelper ignorera la variable
 
 
-En exemple de fichier ini voici celui de bminer:
+En exemple de fichier ini voici celui de EWBF's miner:
+
+[URL]
+https://github.com/nanopool/ewbf-miner/releases/download/v0.3.4b/Zec.miner.0.3.4b.zip
+
+[EXE]
+miner
 
 [NAME]
-bminer
+ewbf
 
 [GPU]
 NVIDIA
@@ -58,12 +70,10 @@ NVIDIA
 false
 
 [DIFFBOX]
-false
+true
 
 [ADDPARAMS]
 true
 
 [LAUNCH]
---uri stratum://%WALLET%.%WORKER%.%MAIL%:%PASS%@%POOL% -nofee --color -max_temperature %MAX_GPU_TEMP% %PARAMS%
-
-
+--fee 0.0 --server %POOL% --user %WALLET%.%WORKER%.%MAIL% --pass %PASS%,d=%DIFF%  --tempunits C --templimit %MAX_GPU_TEMP% %PARAMS%
