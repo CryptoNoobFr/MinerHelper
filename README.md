@@ -6,3 +6,5 @@ Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy
 Pour télécharger MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/releases
 
 Pou savoir comment l'utiliser: http://minerhelper.cryptonoob.fr
+
+Comment ajouter un soft de mining: https://github.com/CryptoNoobFr/MinerHelper/blob/master/addminingsoft
