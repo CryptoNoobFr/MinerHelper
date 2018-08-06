@@ -1,6 +1,6 @@
 Ajouter un nouveau soft de mining à MinerHelper:
 
-1 - Dans le répertoire miners/ créer un nouveau répertoire du nom de l'exécutable du soft que vous souhaitez ajouter
+1 - Dans le répertoire miners/ créer un nouveau répertoire du nom du miner (ou du nom que vous souhaitez) du soft que vous souhaitez ajouter
 2 - Dans le répertoie que vous venez de créer installez y le soft de mining
 3 - Créer un fichier .ini qui aura le même nom que l'exécutable du soft de mining
 
@@ -13,7 +13,7 @@ liens de téléchargement du soft de mining
 nom de l'exécutable (sans le .exe)
 
 [NAME]
-nom du soft de mining
+nom du soft de mining (qui doit être le même que celui du répertoire)
 
 [GPU]
 ici vous avez le choix entre: NVIDIA AMD ou BOTH
