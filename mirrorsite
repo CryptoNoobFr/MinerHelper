@@ -23,3 +23,9 @@ z-enemy
 zminer
 
 - Uploader tous les fichiers .ini et le fichier minerslist.txt dans le répertoire MinerHelper
+
+Maintenant pour télécharger les soft de mining que vous proposez ouvrez le fichier MinerHelper.ini et modifier la ligne:
+
+DOWNLOAD_URL=http://minerhelper.cryptonoob.fr/miners/
+
+En remplaçant l'url actuel par celle de votre site pointant vers votre répertoire MinerHelper
