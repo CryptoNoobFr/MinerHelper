@@ -8,3 +8,5 @@ Pour télécharger MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/rele
 Pou savoir comment l'utiliser: http://minerhelper.cryptonoob.fr
 
 Comment ajouter un soft de mining: https://github.com/CryptoNoobFr/MinerHelper/blob/master/addminingsoft
+
+Créer un site mirroir proposants des soft de mining pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/blob/master/mirrorsite
