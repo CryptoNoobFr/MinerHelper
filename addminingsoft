@@ -1,0 +1,69 @@
+Ajouter un nouveau soft de mining à MinerHelper:
+
+1 - Dans le répertoire miners/ créer un nouveau répertoire du nom de l'exécutable du soft que vous souhaitez ajouter
+2 - Dans le répertoie que vous venez de créer installez y le soft de mining
+3 - Créer un fichier .ini qui aura le même nom que l'exécutable du soft de mining
+
+Le fichier ini doit avoir la forme suivante:
+
+[NAME]
+le nom de l'exécutable (sans le .exe)
+
+[GPU]
+ici vous avez le choix entre: NVIDIA AMD ou BOTH
+le BOTH c'est pour les soft compatible AMD et NVIDIA
+
+[ALGO]
+à la suite mettez les algorithm de minage que le soft de mining permet d'utiliser, le cas échéant laissez vide
+
+[ALGOBOX]
+si le soft laisse le choix des algo mettez true sinon false
+
+[DIFFBOX]
+si il y a la possibilité d'indiquer une difficulté de minage (le cas pour la majorité des soft, mais pas tous) mettez à true sinon à false
+
+[ADDPARAMS]
+si le soft de mining peu prendre d'avantage de param que ceux que vous définirez plus bas mettez à true sinon false
+
+[LAUNCH]
+Ici c'est la partie la plus délicate, il s'agit des paramètres de lancement du soft de mining, mais afin de l'utilisé avec MinerHelper
+il vas faloir utilisé des variables.
+
+Voici la liste des variables possible:
+
+%POOL% - Indique l'adresse du pool avec le port
+%POOL_ADDR% - Indique l'adresse du pool sans le port
+%POOL_PORT% - Indique le port du pool
+%WALLET% - c'est le wallet de l'utilisateur
+%WORKER% - le nom du worker
+%MAIL% - indique le mail de l'utilisateur (le cas échéant MinerHelper ignorera cette variable)
+%PASS% - le mot de passe défini par le user (le cas échéant MinerHelper remplacera par x)
+%DIFF% - correspond à la difficulté de minage défini par l'utilisateur (dans le cas où l'utilisateur n'a pas défini de difficulté,
+le paramètre ",d=%DIFF%" sera ignoré par MinerHelper)
+%MAX_GPU_TEM% - correspond à la température maximum défini par l'utilisateur où le cas échéant celle défini par défaut par MinerHelper
+%PARAMS% - correspond au paramètres additionels que l'utilisateur peut indiquer le cas échéant MinerHelper ignorera la variable
+
+
+En exemple de fichier ini voici celui de bminer:
+
+[NAME]
+bminer
+
+[GPU]
+NVIDIA
+
+//[ALGO]
+
+[ALGOBOX]
+false
+
+[DIFFBOX]
+false
+
+[ADDPARAMS]
+true
+
+[LAUNCH]
+--uri stratum://%WALLET%.%WORKER%.%MAIL%:%PASS%@%POOL% -nofee --color -max_temperature %MAX_GPU_TEMP% %PARAMS%
+
+
