@@ -62,5 +62,6 @@ end
 
 
 NOTE: Tous les scripts doivent êtres placés dans le répertoire scripts/ et avoir l'extension .lua
+
 NOTE bis: Attention de ne pas avoir plusieurs scripts faisant les mêmes choses ce qui pourrait causé des conflits voir des problèmes
 de fonctionner de MinerHelper.
