@@ -1,5 +1,5 @@
 # MinerHelper
-Logiciel d'aide au mining pour débutant
+MinerHelper est un logiciel qui a pour but de faciliter le mining pour les débutants, mais qui en même temps proposé des options pratique pour les utilisateurs avancés.
 
 Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy
 
