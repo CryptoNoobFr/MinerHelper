@@ -7,9 +7,9 @@ Pour télécharger MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/rele
 
 Pou savoir comment l'utiliser: http://minerhelper.cryptonoob.fr
 
-Comment ajouter un soft de mining: https://github.com/CryptoNoobFr/MinerHelper/wiki/AddMiningSoft
+Comment ajouter un soft de mining: https://github.com/CryptoNoobFr/MinerHelper/wiki/AddMiningSoft [OUTDATED]
 
-Créer un site mirroir proposants des soft de mining pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Mirrorsite
+Créer un site mirroir proposants des soft de mining pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Mirrorsite [OUTDATED]
 
 Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting
 
