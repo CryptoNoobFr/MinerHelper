@@ -14,3 +14,5 @@ Créer un site mirroir proposants des soft de mining pour MinerHelper: https://g
 Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting
 
 Pour la création de skins: https://github.com/CryptoNoobFr/MinerHelper/wiki/Skins
+
+Avertissement concernant le téléchargement de plugin pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Avertissement-plugins
