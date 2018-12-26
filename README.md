@@ -16,3 +16,5 @@ Plus d'informations sur la création de script pour MinerHelper: https://github.
 Pour la création de skins: https://github.com/CryptoNoobFr/MinerHelper/wiki/Skins
 
 Avertissement concernant le téléchargement de plugin pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Avertissement-plugins
+
+Tutorial de Monsieur-Tk pour apprendre comment utiliser MinerHelper: https://www.youtube.com/watch?v=wrbyoihiAds
