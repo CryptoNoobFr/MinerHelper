@@ -23,7 +23,8 @@ Avertissement concernant le téléchargement de plugin pour MinerHelper: https:/
 
 Pour la création de skins: https://github.com/CryptoNoobFr/MinerHelper/wiki/Skins
 
-Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting 
+Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting
+
 Liste complète des fonctions: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting_Fonctions
 
 <hr>
