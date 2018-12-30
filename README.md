@@ -5,11 +5,15 @@ MinerHelper est un logiciel qui a pour but de faciliter le mining pour les débu
 
 **Infos de base:**
 
-Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy (a utiliser pour tout support sur MinerHelper)
-
 Pour télécharger MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/releases
 
 Pou savoir comment l'utiliser: http://minerhelper.cryptonoob.fr et aussi le tutorial de Monsieur-Tk pour apprendre comment utiliser MinerHelper: https://www.youtube.com/watch?v=wrbyoihiAds
+
+<hr>
+
+**Support:**
+
+Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy (a utiliser pour tout support sur MinerHelper)
 
 Avertissement concernant le téléchargement de plugin pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Avertissement-plugins
 
