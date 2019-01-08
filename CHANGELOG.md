@@ -1,3 +1,16 @@
+-- 2.7.1b --
+
+* Correction d'un léger bug
+* Correction d'un bug qui empêchait le bon fonctionnement de cartains soft de mining
+
+
+-- 2.7.0b --
+
+* Grosse modification de Miner Helper afin de laisser le choix du protocole de pool à l'utilisateur, ce qui peut être nécessaire sans certains cas
+* Modification du template "default" du contrôle à distance suite à la possibilité de choisir le protocole de pool
+* Correction d'un bug qui par moment empêchait l'extraction des soft de mining lors de leurs mises à jour
+
+
 -- Version 2.6.1b --
 
 * Amélioration de la gestion des crashs
