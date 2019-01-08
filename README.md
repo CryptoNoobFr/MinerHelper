@@ -2,6 +2,7 @@
 MinerHelper est un logiciel qui a pour but de faciliter le mining pour les débutants, mais qui en même temps propose des options pratique pour les utilisateurs avancés.
 
 <hr>
+
 **Supporter le développement:**
 
 Miner Helper est 100% gratuit et ne prend aucun frais, et lorsque cela est possible les fee des soft de mining sont désactivé. Et tout cela ne changera jamais.
