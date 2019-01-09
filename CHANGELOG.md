@@ -2,7 +2,7 @@
 
 * Modification de la fonction startMining() des scripts pour prendre en charge le choix du protocole de pool
 * Correction d'un bug affichait plusieurs fois de suite la même chose lors du mining avec bminer
-* Correction d'un bug créant un buffer overflow lors du minage avec b
+* Correction d'un bug créant un buffer overflow lors du minage avec bminer
 
 
 -- 2.7.3b --
