@@ -1,3 +1,8 @@
+-- 2.7.5b --
+
+* Amélioration graphique des boutons du switch rapide qui sont maintenant tous à la même taille et sont correctement organisés peut importe la longueur des noms de wallet
+
+
 -- 2.7.4b --
 
 * Modification de la fonction startMining() des scripts pour prendre en charge le choix du protocole de pool
