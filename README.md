@@ -14,6 +14,9 @@ BTC: 16Hn7rH4TgwJtQSnBDqTXyzGYigSH93Z1E
 
 ETH: 0xf8f87d79A529D1144789Cb2EffbEb1F35AA45e9B
 
+
+Si vous le souhaitez vous pouvez aussi aider à traduire Miner Helper dans d'autres langues, vous trouverez la documentation pour cela ici: https://github.com/CryptoNoobFr/MinerHelper/wiki/Traduire-Miner-Helper
+
 <hr>
 
 **Infos de base:**
