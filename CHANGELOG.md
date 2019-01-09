@@ -1,3 +1,8 @@
+-- 2.7.3b --
+
+* Correction de l'affichage de multiple fenêtre demandant de faire la mise à jour de Miner Helper lors de la disponibilité d'une mise à jour
+
+
 -- 2.7.2b --
 
 * Modification afin de pouvoir prendre en charge plus de soft de mining de différents types
