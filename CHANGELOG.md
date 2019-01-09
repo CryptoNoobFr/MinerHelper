@@ -1,3 +1,13 @@
+-- 2.7.7b --
+
+* Correction d'un bug qui collait le nom du worker à l'adresse du wallet
+
+
+-- 2.7.6b --
+
+* Optimisation de certaines fonctions
+
+
 -- 2.7.5b --
 
 * Amélioration graphique des boutons du switch rapide qui sont maintenant tous à la même taille et sont correctement organisés peut importe la longueur des noms de wallet
