@@ -1,3 +1,15 @@
+-- 2.7.9b --
+
+* Ajout de la fonction getVersion() au langage de script
+* Ajout de la fonction OnProtoBoxClick() au langage de script
+* Ajout de la fonction getDay() au langage de script
+* Ajout de la fonction getMonth() au langage de script
+* Ajout de la fonction getYear() au langage de script
+* Ajout de la fonction getHour() au langage de script
+* Ajout de la fonction getMinute() au langage de script
+* Ajout de la fonction getSecond() au langage de script
+
+
 -- 2.7.8b --
 
 * Ajout de nouvelles bulles d'aide (tooltip)
