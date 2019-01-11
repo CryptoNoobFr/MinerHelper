@@ -1,3 +1,10 @@
+-- 2.7.8b --
+
+* Ajout de nouvelles bulles d'aide (tooltip)
+* Optimisations du code pour de meilleures performances et une meilleur stabilité
+* Correction d'un bug utilisant le mauvais protocole lors du chargement d'un wallet créer sous une version antérieur à Miner Helper 2.7.0b
+
+
 -- 2.7.7b --
 
 * Correction d'un bug qui collait le nom du worker à l'adresse du wallet
