@@ -1,3 +1,9 @@
+-- 2.8.0b --
+
+* Maintenant Miner Helper reprendra le minage qui était en cours si un minage était en cours lors de sa mise à jour
+* Correction d'un bug pouvant causé un crash lors de la reprise d'un minage après une interruption anormal de Miner Helper
+
+
 -- 2.7.9b --
 
 * Ajout de la fonction getVersion() au langage de script
