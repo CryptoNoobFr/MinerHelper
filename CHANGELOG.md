@@ -1,3 +1,24 @@
+-- 2.9.0b --
+
+* Ajout d'un champs "Intensité" afin de régler facilement l'intensité de minage
+* Modification du système de chargement des soft de mining pour l'intensité
+* Correction d'un bug empêchant le bon fonctionnement de certain soft de mining lorsque le mot de passe contenait le caractère "@"
+* Correction du patcher de Miner Helper qui n'appliquais pas toujours correctement les mise à jour
+
+
+-- 2.8.2b --
+
+* Optimisation sur le lancement des soft de mining
+* Correction d'un bug d'intégration de bminer
+
+
+-- 2.8.1b --
+
+* Ajout de nouveaux messages de debug pour les logs
+* Ajout du protocole cuckaroo29:// (GRIN) à la liste des protocoles
+* Correction d'un bug qui faisait que le nom du worker par défaut pouvait être MinerHelperV220b même sur les versions les plus récentes
+
+
 -- 2.8.0b --
 
 * Maintenant Miner Helper reprendra le minage qui était en cours si un minage était en cours lors de sa mise à jour
