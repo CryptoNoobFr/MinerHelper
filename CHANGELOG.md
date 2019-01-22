@@ -1,3 +1,13 @@
+-- 2.9.2b --
+
+* Correction d'un problème de crash introduit par la 2.9.1b
+
+
+-- 2.9.1b --
+
+* Le réglage de l'intensité ne sera maintenant activé que si le soft de mining permet la modification de l'intensité
+
+
 -- 2.9.0b --
 
 * Ajout d'un champs "Intensité" afin de régler facilement l'intensité de minage
