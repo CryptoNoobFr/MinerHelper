@@ -1,3 +1,19 @@
+-- 3.0.0b --
+
+* Ajout de la gestion de l'intensity lors de la création d'un nouveau wallet via le contrôle à distance
+* Le switch rapide (quand activé) est maintenant automatiquement mis à jour lors de la création d'un nouveau wallet depuis le contrôle à distance
+* Le système d'intégration des softs de ming a été totalement revue afin qu'une majorité de soft puisse être intégré à Miner Helper sans avoir besoin de mettre Miner Helper lui même à jour
+* Ajout de la fonction getMinersForAlgo() au langage de script permettant de récupérer les soft de mining pour miner un algo en particulier prend l'algo en question en paramètres
+* Ajout de la fonction createWallet() au langage de script permettant de créer un nouveau wallet selon les paramètres fourni en arguments. Renvoie True en cas de réussite et False le cas échéant
+* L'onglet "Manuel/Aide" été, pour le moment, temporairement, désactivé car il n'était pas très util du fait qu'il n'était plus maintenu à jour du faitde l'évolution constante de Miner Helper
+* Le champs de saisie de l'adresse mail se trouve maintenant dans l'onglet configuration avec le champs de login et de nom du worker
+* Mise à jour du template "default" du contrôle à distance suite aux différentes modifications appliquées dans cette mise à jour
+* Suppression de la fonction OnMailBoxClick() du langage de script, l'adresse mail faisant maintenant partie de la configuration au même titre que le nom de worker
+* Suppression de la possibilité de changer de provider de soft de mining afin de garantir des soft le plus à jour possible avec uniquement le site officiel de Miner Helper comme provider de soft de mining.
+* Correction du paramètre d'intensité lorsqu'elle est laissé en automatique
+* Correction du redémarrage en boucle de Miner Helper suite à un crash
+
+
 -- 2.9.2b --
 
 * Correction d'un problème de crash introduit par la 2.9.1b
