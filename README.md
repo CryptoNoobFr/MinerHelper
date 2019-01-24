@@ -42,11 +42,3 @@ Pour la création de skins: https://github.com/CryptoNoobFr/MinerHelper/wiki/Ski
 Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting
 
 Liste complète des fonctions: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting_Fonctions
-
-<hr>
-
-**Hébergeur de site / pool:**
-
-Comment ajouter un soft de mining: https://github.com/CryptoNoobFr/MinerHelper/wiki/AddMiningSoft
-
-Créer un site mirroir proposants des soft de mining pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Mirrorsite
