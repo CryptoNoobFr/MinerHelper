@@ -1,3 +1,8 @@
+-- 3.0.1b --
+
+* Corrige des erreurs rencontrés par certains utilisateurs avec la version 3.0.0b
+
+
 -- 3.0.0b --
 
 * Ajout de la gestion de l'intensity lors de la création d'un nouveau wallet via le contrôle à distance
