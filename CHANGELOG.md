@@ -1,3 +1,8 @@
+-- 3.0.2b --
+
+* Correction définitive du problème de dll de la version 3.xb
+
+
 -- 3.0.1b --
 
 * Corrige des erreurs rencontrés par certains utilisateurs avec la version 3.0.0b
