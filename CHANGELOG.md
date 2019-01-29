@@ -1,3 +1,20 @@
+-- 3.0.4b --
+
+* Ajout d'un message au lancement de Miner Helper en cas de non détection de GPU compatible avec le mining
+* Ajout de la possibilité de lancé une seconde instance de Miner Helper avec le paramètres --multi-sessions afin de pouvoir miner avec le CPU en plus des GPU
+* Optimisation de l'accès aux fichiers de langue (supression du système de LOCKED_FILE)
+* Correction de 2 bugs pouvant entrainer le crash de Miner Helper dans certaines circonstances
+
+
+-- 3.0.3b --
+
+* Maintenant à côté du nom de chaque soft de mining sera affiché aussi la version du soft
+* Ajout de la fonction OnIntensityClick() au langage de script de Miner Helper
+* Tous les fichiers .ini seront maintenant dans un répertoire nômé config/
+* Correction d'un bug qui causait la fermeture de Miner Helper si on tentait de l'ouvrir une seconde fois
+* Correction de MinerHelper.updater.exe qui parfois ne décompressais pas correctement tous les fichiers de mise à jour
+
+
 -- 3.0.2b --
 
 * Correction définitive du problème de dll de la version 3.xb
