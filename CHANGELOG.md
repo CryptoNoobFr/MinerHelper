@@ -1,3 +1,8 @@
+-- 3.0.5b --
+
+* Amélioration de l'intégration des soft de mining
+
+
 -- 3.0.4b --
 
 * Ajout d'un message au lancement de Miner Helper en cas de non détection de GPU compatible avec le mining
