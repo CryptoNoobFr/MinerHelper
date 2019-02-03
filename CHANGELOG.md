@@ -1,3 +1,8 @@
+-- 3.0.8b --
+
+* Correction d'un bug empêchant l'enregistrement de nouveaux wallets
+
+
 -- 3.0.7b --
 
 * Correction de 2 bugs pouvant causé le crash de Miner Helper
