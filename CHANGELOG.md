@@ -1,3 +1,8 @@
+-- 3.0.7b --
+
+* Correction de 2 bugs pouvant causé le crash de Miner Helper
+
+
 -- 3.0.6b --
 
 * Ajout de la possibilité d'écrire en couleur sur la sortie des soft de mining
