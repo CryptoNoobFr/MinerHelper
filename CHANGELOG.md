@@ -1,3 +1,9 @@
+-- 3.0.6b --
+
+* Ajout de la possibilité d'écrire en couleur sur la sortie des soft de mining
+* Remplacement de SevenZipExtractor par des algorithmes propre à Miner Helper
+
+
 -- 3.0.5b --
 
 * Amélioration de l'intégration des soft de mining
