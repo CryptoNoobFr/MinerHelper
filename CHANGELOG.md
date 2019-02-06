@@ -1,3 +1,13 @@
+-- 3.1.0b --
+
+* Nouveau système de gestion des protocoles de pool et meilleure gestion des champs de sasie optionnels ou non selon les protocoles de pool
+
+
+-- 3.0.9b --
+
+* Correction de 6 bugs pouvant causé le crash de Miner Helper
+
+
 -- 3.0.8b --
 
 * Correction d'un bug empêchant l'enregistrement de nouveaux wallets
