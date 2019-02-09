@@ -1,3 +1,17 @@
+-- 3.1.2b --
+
+* Ajout de nouveaux contrôles pour tenter d'évité de potentiel crash non gérer dans certaines conditions de matériel instable
+* Ajout de nouveaux messages de debugs en cas d'erreurs
+* Meilleure gestion des différentes méthodes de fermeture afin que Miner Helper se ferme toujours correctement
+* Correction du choix "Quitter" dans le menu "Fichier" qui quittait Miner Helper sans proposé le choix entre la réduction et quitter * complètement l'application
+
+
+-- 3.1.1b --
+
+* Légère amélioration du système d'intégration des soft de mining
+* Mise à jour des protocoles de pool
+
+
 -- 3.1.0b --
 
 * Nouveau système de gestion des protocoles de pool et meilleure gestion des champs de sasie optionnels ou non selon les protocoles de pool
