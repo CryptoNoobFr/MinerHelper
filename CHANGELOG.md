@@ -1,3 +1,9 @@
+-- 3.1.3b --
+
+* Ajout de la fonction getCoinValue() au langage de script
+* Correction d'un bug qui empêchait les scripts de pouvoir fonctionner correctement
+
+
 -- 3.1.2b --
 
 * Ajout de nouveaux contrôles pour tenter d'évité de potentiel crash non gérer dans certaines conditions de matériel instable
