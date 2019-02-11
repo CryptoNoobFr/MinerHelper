@@ -1,3 +1,10 @@
+-- 3.2.0b --
+
+* Ajout d'un gestionnaire de pools afin de proposé directement aux utilisateurs un choix de pool selon l'algorithme et/ou le protocole
+* Ajout de nouveaux contrôles pour empêcher les crash de Miner Helper dans certaines circonstances
+* Ajout de nouveaux messages de debugs dans les logs
+
+
 -- 3.1.3b --
 
 * Ajout de la fonction getCoinValue() au langage de script
