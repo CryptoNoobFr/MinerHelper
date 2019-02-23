@@ -1,3 +1,14 @@
+-- 3.2.2b --
+
+* Ajout d'un champs indiquant si le pool nécessite un login et mot de passe sur la liste des pools
+* Les skins sont maintenant correctement appliqués à la fenêtre de liste des pools
+
+
+-- 3.2.1b --
+
+* Correction d'un léger bug
+
+
 -- 3.2.0b --
 
 * Ajout d'un gestionnaire de pools afin de proposé directement aux utilisateurs un choix de pool selon l'algorithme et/ou le protocole
