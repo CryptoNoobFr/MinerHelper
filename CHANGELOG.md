@@ -1,3 +1,10 @@
+-- 3.3.3b --
+
+* La sortie des soft de mining est maintenant tronquée afin d'éviter des crashs dû à un soucis de mémoire surchargée
+* Chaque session de mining génère maintenant un nouveau fichier log afin de pouvoir voir la sortie complète de la session de minage
+* Suppression du menu contextuel de la sortie des soft de mining, devenu inutile avec ces changements
+
+
 -- 3.2.2b --
 
 * Ajout d'un champs indiquant si le pool nécessite un login et mot de passe sur la liste des pools
