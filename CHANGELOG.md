@@ -1,3 +1,12 @@
+-- 3.4.0b --
+
+* Ajout de la possibilité de mettre la liste des pools à jour
+* Ajout de la possibilité de configuration le formatage des logs et le formatage du nom des fichiers de logs pour les logs des soft de mining
+* Ajout de la possibilité d'activer ou de désactiver les logs des soft de mining depuis l'onglet configuration
+* Modification du menu de mise à jour pour intégrer tout les sous menu de mise à jour
+* Suppression du menu "Option" devenu inutile
+
+
 -- 3.3.3b --
 
 * La sortie des soft de mining est maintenant tronquée afin d'éviter des crashs dû à un soucis de mémoire surchargée
