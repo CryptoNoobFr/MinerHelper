@@ -1,3 +1,17 @@
+-- 3.5.1b --
+
+* Correction de l'affichage de la liste des pools qui pouvait parfois affiché un même pool plusieurs fois de suite
+
+
+-- 3.5.0b --
+
+* Ajout de messages lors de la mise à jour de la liste des pools indiquant que cette dernière a bien été effectuée ou si elle a échouée
+* L'affichage des températures des GPUs a été déplacé sur l'onglet "Mineur" pour une meilleur visibilité lors du minage
+* L'onglet "Configuration" a été divisé en 4 sous onglets pour plus de clareté
+* Correction d'un bug qui faisait que les soft de mining et les algos apparaissaient en double après la mise à jour des softs de mining
+* Correction d'un bug qui faisait que même les scripts désactivés étaient chargés
+
+
 -- 3.4.0b --
 
 * Ajout de la possibilité de mettre la liste des pools à jour
