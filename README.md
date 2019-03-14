@@ -23,7 +23,7 @@ Si vous le souhaitez vous pouvez aussi aider à traduire Miner Helper dans d'aut
 
 Pour télécharger MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/releases
 
-Pou savoir comment l'utiliser: http://minerhelper.cryptonoob.fr et aussi le tutorial de Monsieur-Tk pour apprendre comment utiliser MinerHelper: https://www.youtube.com/watch?v=wrbyoihiAds
+Pou savoir comment l'utiliser, regarder le tutorial de Monsieur-Tk: https://www.youtube.com/watch?v=wrbyoihiAds
 
 <hr>
 
