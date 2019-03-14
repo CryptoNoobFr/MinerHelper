@@ -1,3 +1,8 @@
+-- 3.5.2b --
+
+* Correction des options de l'onglet "Configuration" qui n'étaient plus correctement appliquées.
+
+
 -- 3.5.1b --
 
 * Correction de l'affichage de la liste des pools qui pouvait parfois affiché un même pool plusieurs fois de suite
