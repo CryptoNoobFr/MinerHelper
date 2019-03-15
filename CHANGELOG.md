@@ -1,3 +1,10 @@
+-- 3.6.0b --
+
+* Ajout de différentes pages d'aide pour les sous onglet de l'onglet de configuration
+* Ajout d'une vérification de présence du processus du soft de mining en cas de non lancement dû par exemple à une erreur de fonctionnement du soft de mining
+* Ajout de la vérification de la version minimum requise du .NET Framwork pour un fonctionnement optimal de Miner Helper
+
+
 -- 3.5.2b --
 
 * Correction des options de l'onglet "Configuration" qui n'étaient plus correctement appliquées.
