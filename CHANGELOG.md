@@ -1,3 +1,8 @@
+-- 3.6.1b --
+
+* Ajout de scrollbars afin de pouvoir faire défiler les pages d'aide des onglets de configuration
+
+
 -- 3.6.0b --
 
 * Ajout de différentes pages d'aide pour les sous onglet de l'onglet de configuration
