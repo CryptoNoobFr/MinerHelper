@@ -1,3 +1,9 @@
+-- 3.7.0b --
+
+* Ajout d'une aide sur l'onglet "Gestion wallets"
+* Ajout de la possibilité de ré-activer les options avancées de minage depuis le sous onglet de configuration "Avancé"
+
+
 -- 3.6.1b --
 
 * Ajout de scrollbars afin de pouvoir faire défiler les pages d'aide des onglets de configuration
