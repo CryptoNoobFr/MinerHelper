@@ -52,3 +52,5 @@ Pour la création de skins: https://github.com/CryptoNoobFr/MinerHelper/wiki/Ski
 Plus d'informations sur la création de script pour MinerHelper: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting
 
 Liste complète des fonctions: https://github.com/CryptoNoobFr/MinerHelper/wiki/Scripting_Fonctions
+
+Si vous n'avez aucune connaissance en programmation, mais souhtez tout de même apprendre à créer des scripts pour Miner Helper, vous pourrez trouvez une série de mini tuto ici: http://minerhelper.cryptonoob.fr/tutos-scripts/
