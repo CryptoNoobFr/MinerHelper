@@ -7,7 +7,7 @@ MinerHelper est un logiciel qui a pour but de faciliter le mining pour les débu
 
 Si vous souhaitez supporter le développement de Miner Helper vous pouvez faire un don.
 
-Cela n'est bien sur en aucun cas une obligation, Miner Helper est 100% gratuit et ne prend aucun frais sur votre minage, et lorsque cela est possible les fee des soft de mining sont désactivé. Et tout cela ne changera jamais.
+Cela n'est bien sur en aucun cas une obligation, Miner Helper est 100% gratuit et ne prend aucun frais sur votre minage, et lorsque cela est possible, ce qui n'est malheureusement pas toujours le cas, les frais (fees) des soft de mining sont désactivé. Et tout cela ne changera jamais.
 
 
 BTC: 16Hn7rH4TgwJtQSnBDqTXyzGYigSH93Z1E
