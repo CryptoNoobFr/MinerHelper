@@ -1,3 +1,8 @@
+-- 3.7.1b --
+
+* Correction d'un bug pouvant parfois empêcher le démarrage du mining ou sa sortie de correctement s'afficher
+
+
 -- 3.7.0b --
 
 * Ajout d'une aide sur l'onglet "Gestion wallets"
