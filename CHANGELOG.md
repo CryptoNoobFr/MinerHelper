@@ -1,3 +1,11 @@
+-- 3.7.2b --
+
+* Ajout de l'affichage de la la ligne de commande, dans l'onglet "Mineur", que Miner Helper utilise lors du minage
+* Ajout de nouveaux contrôles d'erreurs pour tenté d'éviter les fermetures subites de Miner Helper lors du minage
+* Correction d'un bug se manivestant aléatoirement lors de la sauvegarde d'un wallet
+* Correction du bug qui faisait que des infos continuaientt à être affiché même après l'arrêt du minage
+
+
 -- 3.7.1b --
 
 * Correction d'un bug pouvant parfois empêcher le démarrage du mining ou sa sortie de correctement s'afficher
