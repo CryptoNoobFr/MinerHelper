@@ -1,3 +1,23 @@
+-- 4.1.0b --
+
+* Ajout d'un message lorsque l'UPNP n'est pas disponible lors du démarrage du contrôle à distance
+* Ajout d'un message lors de l'enregistrement d'une configuration ou lors du démarrage du minage si aucun protocole de pool n'a été sélectionné
+* Ajout de la vérification que seul des nombre sont bien entrés dans le port de pool et ajout d'un message en cas de copier/coller de texte dans le port de pool
+* Modification de l'interface au niveau de la page de configuration
+* Modification du système de skin suite à la modification de la page de configuration
+* Mise à jour des différents skins fourni avec Miner Helper
+
+
+-- 4.0.0b --
+
+* Refonte totale de l'interface
+* Modification et amélioration du système de skin du à la reonte de l'interface
+* Ajout de trois nouveaux skins en plus du nouveau skin par défaut
+* Amélioration de la gestion des adresses de pool dans le cas où un protocole et/ou un port soit entré avec l'adresse de pool
+* Modification de ce qui est était anciennement appelé "wallet" pour "configuration de minage"
+* Modification de la fonction switchTab() du langage de script pour s'adapter à la refonte de l'interface
+
+
 -- 3.7.2b --
 
 * Ajout de l'affichage de la la ligne de commande, dans l'onglet "Mineur", que Miner Helper utilise lors du minage
