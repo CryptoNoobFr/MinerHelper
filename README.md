@@ -37,6 +37,12 @@ Si vous ne savez pas comment faire, vous pouvez consulter le tuto de Rootsnico s
 
 <hr>
 
+** Version antérieur à Windows 10 **
+
+Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper sous une version antérieur à Windows 10 il est recommandé de le lancer en mode administrateur: Click droit => Exécuter en tant qu'administrateur.
+
+<hr>
+
 **Support:**
 
 Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy (a utiliser pour tout support sur MinerHelper)
