@@ -39,7 +39,7 @@ Si vous ne savez pas comment faire, vous pouvez consulter le tuto de Rootsnico s
 
 **Version antérieur à Windows 10**
 
-Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper sous une version antérieur à Windows 10 il est recommandé de le lancer en mode administrateur: Click droit => Exécuter en tant qu'administrateur.
+Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper sous une version antérieur à Windows 10 il est recommandé de le lancer en mode administrateur: Click droit sur MinerHelper.exe puis "Exécuter en tant qu'administrateur".
 
 <hr>
 
