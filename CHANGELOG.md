@@ -1,3 +1,10 @@
+-- 4.1.1b --
+
+* Correction du bug du chargement des couleurs des skins sur certaines fenêtres
+* Correction d'un bug sur le chargement de la liste des scripts
+* Correction de l'inversion entre "enregistrer configuration" et "enregistrer configuration sous"
+
+
 -- 4.1.0b --
 
 * Ajout d'un message lorsque l'UPNP n'est pas disponible lors du démarrage du contrôle à distance
