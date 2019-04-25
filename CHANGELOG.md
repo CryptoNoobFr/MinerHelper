@@ -1,3 +1,8 @@
+-- 4.1.2b --
+
+* Correction de l'actualisation des plugins
+
+
 -- 4.1.1b --
 
 * Correction du bug du chargement des couleurs des skins sur certaines fenêtres
