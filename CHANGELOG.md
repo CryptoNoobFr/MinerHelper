@@ -1,3 +1,8 @@
+-- 4.1.3b --
+
+* Corection d'un bug qui créer des doublons dans les listes de sélection des protocoles et des algorithmes sur la page de listage des pools
+
+
 -- 4.1.2b --
 
 * Correction de l'actualisation des plugins
