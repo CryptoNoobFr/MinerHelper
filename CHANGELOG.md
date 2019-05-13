@@ -1,3 +1,11 @@
+-- 4.2.0b --
+
+* Ajout d'un système de statistique pour aider à l'amélioration de Miner Helper, avec demande d'autorisation de l'utilisateur au tout premier lancement
+* Ajout de la possibilité de modifier la température maximum des GPU dans la configuration avancée
+* Ajout de la possibilité pour l'utilisateur d'affiché le numéro de série de son installation de Miner Helper
+* Correction du bug qui sélectionnait le "stratum+tc://" comme protocole à la place de "stratum+tcp://"
+
+
 -- 4.1.3b --
 
 * Corection d'un bug qui créer des doublons dans les listes de sélection des protocoles et des algorithmes sur la page de listage des pools
