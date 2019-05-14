@@ -1,3 +1,8 @@
+-- 4.2.1b --
+
+* Correction de quelques bugs mineurs sur le contrôles à distance
+
+
 -- 4.2.0b --
 
 * Ajout d'un système de statistique pour aider à l'amélioration de Miner Helper, avec demande d'autorisation de l'utilisateur au tout premier lancement
