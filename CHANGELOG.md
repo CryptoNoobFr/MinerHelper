@@ -1,3 +1,9 @@
+-- 4.3.0b --
+
+* Ajout d'un assistant d'aide à la création de configuration de minage
+* Correction des doublons de protocoles sur le contrôle à distance lors de la création d'une nouvelle configuration
+
+
 -- 4.2.1b --
 
 * Correction de quelques bugs mineurs sur le contrôles à distance
