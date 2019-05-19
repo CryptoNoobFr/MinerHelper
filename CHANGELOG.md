@@ -1,3 +1,11 @@
+-- 4.4.0b --
+
+* Facilitation d'accès à certaines fonctions de Miner Helper pour les plugins
+* Amélioration de la gestion de la mémoire afin de limiter les crash
+* Ajout de contrôles pour éviter certains crash
+* Ajout de message de debug dans les logs
+
+
 -- 4.3.0b --
 
 * Ajout d'un assistant d'aide à la création de configuration de minage
