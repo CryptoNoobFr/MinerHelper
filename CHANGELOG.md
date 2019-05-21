@@ -1,3 +1,11 @@
+-- 4.4.1b --
+
+* Les paramètres de minage avancés sont maintenant caché par défaut et peuvent être activés via les options de configurations avancées
+* Ajout de la possibilité de repassé à l'ancienne barre de titre via les options de configurations avancées
+* Optimisations de l'utilisation de la mémoire
+* Correction du message sur le port lors du click sur "Nouvelle configuration"
+
+
 -- 4.4.0b --
 
 * Facilitation d'accès à certaines fonctions de Miner Helper pour les plugins
