@@ -1,3 +1,8 @@
+-- 4.4.2b --
+
+* Correction d'un bug introduit par la version 4.4.1b qui empêchait de créer une nouvelle configuration de minage avec ou sans l'assistant
+
+
 -- 4.4.1b --
 
 * Les paramètres de minage avancés sont maintenant caché par défaut et peuvent être activés via les options de configurations avancées
