@@ -1,3 +1,8 @@
+-- 4.4.3b --
+
+* La sortie des soft de mining n'est maintenant plus tronquée
+
+
 -- 4.4.2b --
 
 * Correction d'un bug introduit par la version 4.4.1b qui empêchait de créer une nouvelle configuration de minage avec ou sans l'assistant
