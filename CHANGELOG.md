@@ -1,3 +1,11 @@
+-- 4.4.4b --
+
+* Ajout de la fonction getIdleTime() au langage de script
+* Ajout de la fonction isMining() au langage de script
+* Ajout de la possibilité de modifier l'interval de la fonction OnLoop() depuis la page de gestion des scripts
+* Correction de divers bugs sur le système de scripts
+
+
 -- 4.4.3b --
 
 * La sortie des soft de mining n'est maintenant plus tronquée
