@@ -1,3 +1,9 @@
+-- 4.5.0b --
+
+* Ajout de la possibilité d'effectuer des benchmark
+* Mise à jour du système de skin pour l'ajout du bouton de benchmark
+
+
 -- 4.4.4b --
 
 * Ajout de la fonction getIdleTime() au langage de script
