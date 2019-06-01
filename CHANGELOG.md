@@ -1,3 +1,9 @@
+-- 4.5.1b --
+
+* Amélioration du système de benchmark + conservation des données des benchmark
+* Ajout de l'exportation (automatique) des benchmark au format CSV
+
+
 -- 4.5.0b --
 
 * Ajout de la possibilité d'effectuer des benchmark
