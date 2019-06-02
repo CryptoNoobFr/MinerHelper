@@ -1,3 +1,10 @@
+-- 4.5.2b --
+
+* Ajout de l'intégration du nouveau Miner Helper Community (actuellement en alpha !)
+* Ajout de la possibilité de partager ses benchmark via le MHC (Miner Helper Community)
+* Ajout de la liste des GPUs avec lesquels lesbenchmark on été effectués
+
+
 -- 4.5.1b --
 
 * Amélioration du système de benchmark + conservation des données des benchmark
