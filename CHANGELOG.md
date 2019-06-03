@@ -1,3 +1,11 @@
+-- 4.5.4b --
+
+* Ajout d'un bouton pour pouvoir fermer la fenêtre de connexion au MHC
+* Ajout d'un message lorsque le benchmark démarre afin de prévenir l'utilisateur
+* Les skins sont maintenant correctement appliqué à la fenêtre de connexion du MHC
+* Le MHC n'apparait plus comme étant activé après que la fenêtre de connexion est été fermée sans que l'utilisateur se soit connecté au MHC
+
+
 -- 4.5.3b --
 
 * Correction de bugs mineurs introduit par la version 4.5.2b
