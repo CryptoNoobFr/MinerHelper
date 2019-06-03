@@ -1,3 +1,8 @@
+-- 4.5.3b --
+
+* Correction de bugs mineurs introduit par la version 4.5.2b
+
+
 -- 4.5.2b --
 
 * Ajout de l'intégration du nouveau Miner Helper Community (actuellement en alpha !)
