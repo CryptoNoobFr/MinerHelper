@@ -1,3 +1,11 @@
+-- 4.5.5b --
+
+* Légère modification de l'interface
+* Le système de benchmark n'est maintenant plus dans les options mais à sa propre place
+* La fenêtre de connexion au MHC à maintenant une bordure
+* Lors du changement de programme de minager le champs de sélection d'algo du benchmark est maintenant correctement vidé
+
+
 -- 4.5.4b --
 
 * Ajout d'un bouton pour pouvoir fermer la fenêtre de connexion au MHC
