@@ -1,3 +1,10 @@
+-- 4.5.6b --
+
+* Ajout d'un lien vers la liste des benchmark de la MHC
+* Mise à jour du système de skin
+* Correction du crash des benchmark
+
+
 -- 4.5.5b --
 
 * Légère modification de l'interface
