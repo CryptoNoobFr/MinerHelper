@@ -1,3 +1,9 @@
+-- 4.5.7b --
+
+* Ajout de la possibilité d'importer ses benchmark depuis la MHC
+* Correction de l'application des skins pour la couleur de fond des liens
+
+
 -- 4.5.6b --
 
 * Ajout d'un lien vers la liste des benchmark de la MHC
