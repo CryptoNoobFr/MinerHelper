@@ -1,3 +1,11 @@
+-- 4.5.8b --
+
+* Les anciens logs de minage sont maintenant effacés à chaque démarrage d'un nouveau minage
+* L'assistant de configuration enregistre maintenant les configuration de minage au bon endroit
+* Correction des liste de pool proposé par l'assistant de configuration pour n'affiché que les pools gérant l'algorithme sélectionné
+* Correction du titre des fenêtres d'enregistrement et de chargement de configuration de minage qui avait garder l'ancien nom de "wallet"
+
+
 -- 4.5.7b --
 
 * Ajout de la possibilité d'importer ses benchmark depuis la MHC
