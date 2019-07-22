@@ -1,3 +1,13 @@
+-- 4.5.9b --
+
+* Ajout de la possibilité de faire démarrer Miner Helper au démarrage de Windows (options avancées)
+* Ajout d'un message lorsque la configuration de l'assistant est terminée
+* Ajout de la vérification du nom du fichier de configuration créer avec l'assistant afin de ne pas écrasé une configuration déjà existante
+Ajout d'un bouton pour fermer la fenêtre de l'assistant de configuration
+* Correction de divers bugs mineurs sur l'assistant de configuration
+* Correction d'un bug avec certains caractères sur le système multilingue
+
+
 -- 4.5.8b --
 
 * Les anciens logs de minage sont maintenant effacés à chaque démarrage d'un nouveau minage
