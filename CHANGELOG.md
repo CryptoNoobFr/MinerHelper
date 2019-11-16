@@ -1,3 +1,8 @@
+-- 5.0.0 --
+
+* Miner Helper 5.0.0 est une toute nouvelle version re-développée de A à Z, et la version 5.0.0 est en la première release, et aussi la première release de Miner Helper à ne pas être une bêta !
+
+
 -- 4.5.9b --
 
 * Ajout de la possibilité de faire démarrer Miner Helper au démarrage de Windows (options avancées)
