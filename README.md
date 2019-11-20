@@ -23,8 +23,6 @@ ETH: 0xf8f87d79A529D1144789Cb2EffbEb1F35AA45e9B
 
 Pour télécharger Miner Helper: https://github.com/CryptoNoobFr/MinerHelper/releases
 
-[Plus à jour] Pou savoir comment l'utiliser, regarder le tutorial de Monsieur-Tk: https://www.youtube.com/watch?v=wrbyoihiAds
-
 <hr>
 
 **Anti virus:**
@@ -32,8 +30,6 @@ Pour télécharger Miner Helper: https://github.com/CryptoNoobFr/MinerHelper/rel
 Il est plus que très fréquent que les anti virus concidère les logiciels dédiés au minage de cryptomonnaie commme des virus, alors qu'il ne s'agit pas de virus, c'est ce que l'on appel un "faux positif" un logiciel détecté comme une menace par un anti virus alors qu'il n'y a aucune menace.
 
 Lorsque cela se produit souvent le ou les fichiers concernés peuvent être soit mis en quarantaine ou voir même supprimés, afin que cela n'arrive pas il vous faudra ajouter une exception sur le répertoire dans lequel vous souhaitez installer Miner Helper.
-
-[Plus à jour] Si vous ne savez pas comment faire, vous pouvez consulter le tuto de Rootsnico sur Miner Helper, dans ce tuto une section est consacré à l'ajout d'exception sur un anti virus, vous trouvrez ce tuto ici: https://www.lacryptonite.fr/blog/miner-helper-miner-des-cryptos-facilement-avec-un-seul-soft-debuter-dans-le-minage-tutoriel
 
 <hr>
 
