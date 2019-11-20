@@ -1,3 +1,8 @@
+-- 5.0.2 --
+
+* Optimisations
+
+
 -- 5.0.1 --
 
 * Amélioration de la liste de pool sur l'assistant
