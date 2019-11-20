@@ -19,12 +19,6 @@ ETH: 0xf8f87d79A529D1144789Cb2EffbEb1F35AA45e9B
 
 <hr>
 
-**Infos de base:**
-
-Pour télécharger Miner Helper: https://github.com/CryptoNoobFr/MinerHelper/releases
-
-<hr>
-
 **Anti virus:**
 
 Il est plus que très fréquent que les anti virus concidère les logiciels dédiés au minage de cryptomonnaie commme des virus, alors qu'il ne s'agit pas de virus, c'est ce que l'on appel un "faux positif" un logiciel détecté comme une menace par un anti virus alors qu'il n'y a aucune menace.
@@ -42,3 +36,9 @@ Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper s
 **Support:**
 
 Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy (a utiliser pour tout support sur Miner Helper)
+
+<hr>
+
+**Infos de base:**
+
+Pour télécharger Miner Helper: https://github.com/CryptoNoobFr/MinerHelper/releases
