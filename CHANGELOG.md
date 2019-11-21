@@ -1,3 +1,10 @@
+-- 5.0.3 --
+
+* Remplacement de la vitesse de lecture du compagnon par un bouton "suivant"
+* Correction d'une erreur qui pouvait empêcher le chargement d'une configuration dans le cas où les noms de dossiers comportaient un espace
+* Correction de la non traduction du titre de la fenêtre de mise à jour des softs de mining
+
+
 -- 5.0.2 --
 
 * Optimisations
