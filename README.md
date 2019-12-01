@@ -39,6 +39,6 @@ Discord de la communauté CryptoNoob: https://discord.gg/nVkGsXy (a utiliser pou
 
 <hr>
 
-**Infos de base:**
+**Téléchargement:**
 
 Pour télécharger Miner Helper: https://github.com/CryptoNoobFr/MinerHelper/releases
