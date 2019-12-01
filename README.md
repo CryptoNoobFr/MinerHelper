@@ -23,7 +23,11 @@ ETH: 0xf8f87d79A529D1144789Cb2EffbEb1F35AA45e9B
 
 Il est plus que très fréquent que les anti virus concidère les logiciels dédiés au minage de cryptomonnaie commme des virus, alors qu'il ne s'agit pas de virus, c'est ce que l'on appel un "faux positif" un logiciel détecté comme une menace par un anti virus alors qu'il n'y a aucune menace.
 
-Lorsque cela se produit souvent le ou les fichiers concernés peuvent être soit mis en quarantaine ou voir même supprimés, afin que cela n'arrive pas il vous faudra ajouter une exception sur le répertoire dans lequel vous souhaitez installer Miner Helper.
+Lorsque cela se produit souvent le ou les fichiers concernés peuvent être soit mis en quarantaine ou voir même supprimés, afin que cela n'arrive pas il vous faudra ajouter des exceptions sur:
+
+* le répertoire dans lequel vous souhaitez installer Miner Helper.
+* sur le site cryptonoob.fr
+* sur le site github.com
 
 <hr>
 
