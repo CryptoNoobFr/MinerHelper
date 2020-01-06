@@ -1,3 +1,17 @@
+-- 5.0.5 --
+
+* Ajout d'un avertissement lors de l'utilisation de l'assistant en cas de l'absence de pool.
+* Correction d'un bug qui par moment empêchait les protocoles d'être correctement parsé ce qui empêchait le minage
+* Correctionn d'une erreur du système de traduction sur la fenêtre d'édition de configuration de minage
+* Correction d'un bug qui faisait crash Miner Helper lorsqu'on tentait d'éditer une configuration de minage
+
+
+-- 5.0.4 --
+
+* Correction d'un bug mineur dans le module MHLink
+* Ajout des traductions manquantes dans les fichiers de langue english
+
+
 -- 5.0.3 --
 
 * Remplacement de la vitesse de lecture du compagnon par un bouton "suivant"
