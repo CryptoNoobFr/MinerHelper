@@ -1,3 +1,8 @@
+-- 5.0.6 --
+
+* Ajout de la possibilité de poser des questions au companion en cas de besoin d'aide
+
+
 -- 5.0.5 --
 
 * Ajout d'un avertissement lors de l'utilisation de l'assistant en cas de l'absence de pool.
