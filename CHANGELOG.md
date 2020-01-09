@@ -1,3 +1,10 @@
+-- 5.0.7 --
+
+* Miner Helper prend maintenant en compte le niveau de zoom des paramètres d'affichage de Windows
+* Correction du bug qui nécessitait de redémarrer Miner Helper pour éditer 2 configurations de minage à la suite
+* Correction du bug qui indiquait un minage en cours à la suite de l'édition d'une configuration de minage
+
+
 -- 5.0.6 --
 
 * Ajout de la possibilité de poser des questions au companion en cas de besoin d'aide
