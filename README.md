@@ -33,7 +33,7 @@ Lorsque cela se produit souvent le ou les fichiers concernés peuvent être soit
 
 **Version antérieur à Windows 10 ET Windows 10 famillial**
 
-Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper sous une version antérieur à Windows 10 ou Windows 10 famillial il est recommandé de le lancer en mode administrateur: Click droit sur Miner Helper.exe puis "Exécuter en tant qu'administrateur".
+Afin d'éviter tout problème si vous souhaitez faire fonctionner Miner Helper sous une version antérieur à Windows 10 ou sur Windows 10 famillial il est recommandé de le lancer en mode administrateur: Click droit sur Miner Helper.exe puis "Exécuter en tant qu'administrateur".
 
 <hr>
 
