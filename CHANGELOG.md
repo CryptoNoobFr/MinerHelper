@@ -1,3 +1,9 @@
+-- 5.0.8 --
+* Ajout d'un système de skin (utilisation optionelle, car demande plus de ressources de la part de la machine)
+* Correction partielle du bug qui fait disparaitre la fenêtre de minage [réduction dans la zone de notification temporairement désactivée]
+* Correction d'un bug qui ne réduisait pas Miner Helper selon le choix de l'utilisateur lors du choix entre "Quitter" et "Réduire"
+
+
 -- 5.0.7 --
 
 * Miner Helper prend maintenant en compte le niveau de zoom des paramètres d'affichage de Windows
