@@ -1,3 +1,9 @@
+-- 5.1.1 --
+
+* Ajout d'un menu pour configurer les options des scripts
+* Application des skins aux fenêtres de gestion des scripts
+
+
 -- 5.1.0 --
 
 * Ajout d'un système de script [doc ici: http://minerhelper.cryptonoob.fr/lua-def/]
