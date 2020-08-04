@@ -1,3 +1,11 @@
+-- 5.1.2 --
+
+* Modification des mises à jour pour que l'utilisateur ait la possibilité s'il le souhaite de choisir quel logiciel de minage mettre à jour
+* Correction d'un bug sur la fonction de script ComSetImage() qui faisait que l'image ne s'affichait pas toujours correctement
+* Optimisation du forwadding de port pour le contrôle à distance
+* Correction d'un bug introduit en 5.1.0 qui empêchait de télécharger correctement les config de minage depuis le cloud
+
+
 -- 5.1.1 --
 
 * Ajout d'un menu pour configurer les options des scripts
