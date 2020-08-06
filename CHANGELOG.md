@@ -1,3 +1,11 @@
+-- 5.1.3 --
+
+* Ajout d'un bouton sur l'assitant pour ajouter des servers de pool (ce qui évite de recommencer la config à 0)
+* Ajout du contrôles des MHSS qui étaient manquant sur certains menus du MHCH
+* Correction de l'affichage des versions sur le contrôle à distance
+* Correction d'un léger bug sur le cloud
+
+
 -- 5.1.2 --
 
 * Modification des mises à jour pour que l'utilisateur ait la possibilité s'il le souhaite de choisir quel logiciel de minage mettre à jour
