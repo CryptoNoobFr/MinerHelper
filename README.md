@@ -1,3 +1,8 @@
+# **[02/07/2021] Le développement de Miner Helper est arrêté, et d'ici quelques mois les services de ce dernier cesseront de fonctionner.**
+
+<hr>
+<hr>
+
 # Miner Helper
 Miner Helper est un logiciel qui a pour but de faciliter le mining pour les débutants, mais qui en même temps propose des options pratique pour les utilisateurs avancés.
 
